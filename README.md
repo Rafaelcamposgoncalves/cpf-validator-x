@@ -1,2 +1,2 @@
-# is-valid-cpf
+# cpf-validator-x
 Library to validate CPF, Brazilian document
