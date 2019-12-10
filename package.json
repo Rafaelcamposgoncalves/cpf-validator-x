@@ -1,0 +1,30 @@
+{
+  "name": "is-valid-cpf",
+  "version": "1.0.0",
+  "description": "Library to validate CPF, Brazilian document",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rafaelcamposgoncalves/is-valid-cpf.git"
+  },
+  "keywords": [
+    "validar cpf",
+    "validação de cpf",
+    "validacao",
+    "cpf",
+    "validação cpf",
+    "cpf validator",
+    "cpf validation",
+    "validation",
+    "validator"
+  ],
+  "author": "Rafael Campos Gonçalves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rafaelcamposgoncalves/is-valid-cpf/issues"
+  },
+  "homepage": "https://github.com/Rafaelcamposgoncalves/is-valid-cpf#readme"
+}
