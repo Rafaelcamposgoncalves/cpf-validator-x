@@ -1,6 +1,6 @@
 {
   "name": "cpf-validator-x",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Library to validate CPF, Brazilian document",
   "main": "index.js",
   "scripts": {

@@ -9,10 +9,12 @@ Library to validate CPF, Brazilian document
 ### Parameters  
 (cpf, error message)
 
-| PARAMETER     | VALUE                                                      |
-|---------------|------------------------------------------------------------|
-| cpf           | cpf number                                                 |
-| error message | In case of error returns the message passed this parameter |  
+| PARAMETER     | VALUE      | OBS                                                        |
+|---------------|------------|------------------------------------------------------------|
+| cpf           | cpf number | In case of error returns the CPF number                    |
+| error message | message    | In case of error returns the message passed this parameter |
+|                                                                                         |
+  
   
 ### Usage examples  
   
