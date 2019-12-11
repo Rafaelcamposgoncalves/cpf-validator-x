@@ -22,7 +22,7 @@
     "validator"
   ],
   "author": "Rafael Campos Gonçalves",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Rafaelcamposgoncalves/cpf-validator-x/issues"
   },
