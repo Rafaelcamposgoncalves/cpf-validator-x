@@ -13,9 +13,8 @@ Library to validate CPF, Brazilian document
 |---------------|------------|------------------------------------------------------------|
 | cpf           | cpf number | In case of error returns the CPF number                    |
 | error message | message    | In case of error returns the message passed this parameter |
-|                                                                                         |
   
-  
+
 ### Usage examples  
   
 #### In the first parameter 3 data types are accepted:  
@@ -36,12 +35,12 @@ cpfValidatorX.isCpf('333.333.333-33');
 #### Example with 2 parameters
 
 ```
-cpfValidatorX.isCpf('33333333333', 'CPF Inválido');
+cpfValidatorX.isCpf('33333333333', 'Invalid CPF');
 ```
 
 > **Note:**
 >
-> If the second parameter is omitted no message will be returned.  
+> If the second parameter is omitted, no error message will be returned.  
   
 ### Return  
 Returns a **JSON** object with up to 3 values, depending on error and number of parameters passed, Ex:  
